@@ -1,6 +1,6 @@
 # Tugas 3 NodeJS
 
-NodeJS, ExpressJS, Mongoose, Membuat CRUD API (PUT).
+NodeJS + ExpressJS + Mongoose, Membuat CRUD API (PUT).
 
 PUT :
 <br>
